@@ -1,0 +1,21 @@
+
+---Downloaded files---
+The import files for: All Demo Content with Images were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://local.cbd.com
+Data file = /Users/chengkittkhoo/Sites/codesbydawson/wp-content/uploads/2025/05/demo-content-import-file_2025-05-30__16-50-24.xml
+Widget file = not defined!
+Customizer file = /Users/chengkittkhoo/Sites/codesbydawson/wp-content/uploads/2025/05/demo-customizer-import-file_2025-05-30__16-50-24.dat
+Redux files:
+pe-redux -> /Users/chengkittkhoo/Sites/codesbydawson/wp-content/uploads/2025/05/demo-redux-import-file_0-2025-05-30__16-50-24.json 
+
+
+---Importing Redux settings---
+Redux settings import for: pe-redux finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
