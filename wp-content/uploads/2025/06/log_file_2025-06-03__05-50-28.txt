@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Templates Only were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://local.cbd2.com
+Data file = /Users/chengkittkhoo/Sites/codesbydawson/project2/wp-content/uploads/2025/06/demo-content-import-file_2025-06-03__05-50-28.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/after_import---
+
